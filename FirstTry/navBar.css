@@ -1,0 +1,50 @@
+/* NavBar */
+* {
+	color: white;
+}
+body {
+	background-color: black;
+}
+#header {
+	z-index: 1;
+	position: fixed;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	height: 92px;
+	width: 98.5%;
+	background-color: black;
+}
+#logo {
+	height: 92px;
+	width: 92px;
+}
+#navBar {
+	float: right;
+	margin-top: 25.5px;
+	margin-bottom: 25.5px;
+}
+#navBar a {
+	color: white;
+	font-size: 24px;
+	padding: 0 10px;
+}
+.navigate:hover {
+	text-decoration: underline;
+}
+.main {
+	padding-top: 105px;
+	margin-left: 10%;
+	margin-right: 5%;
+}
+#footer {
+	position: relative;
+	clear: both;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+#email:hover {
+	font-weight: bold;
+}
