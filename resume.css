@@ -4,7 +4,6 @@
 	margin-right: 5%;
 }
 .main > div {
-	/*border-radius: 5px;*/
 	display: table-row;
 }
 .involvement p {
@@ -18,7 +17,7 @@ li {
 }
 #education h3 {
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 1.125em;
 }
 .company {
 	font-weight: bold;
@@ -36,4 +35,5 @@ li {
 }
 .list {
 	clear: both;
+	font-size: 0.0875em;
 }
