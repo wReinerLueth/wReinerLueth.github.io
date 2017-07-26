@@ -35,5 +35,7 @@ li {
 }
 .list {
 	clear: both;
+}
+.list p {
 	font-size: 0.0875em;
 }
